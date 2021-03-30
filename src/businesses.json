@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Trader Joes's",
+        "description": "example description",
+        "address": "123 example avenue",
+        "distance": 4000,
+        "businessType": ["grocery", "food"],
+        "promoted": false,
+        "score": 6.5
+    },
+    {
+        "name": "Moo Shoes",
+        "description": "example description",
+        "address": "456 example avenue",
+        "distance": 8230,
+        "businessType": ["footwear", "apparal", "clothing", "vegan"],
+        "promoted": true,
+        "score": 9
+    },
+    {
+        "name": "Lady Bird",
+        "description": "example description",
+        "address": "789 example avenue",
+        "distance": 1350,
+        "businessType": ["restaurant", "food", "vegan", "vegetarian"],
+        "promoted": false,
+        "score": 8.5
+    },
+    {
+        "name": "Night Music",
+        "description": "example description",
+        "address": "123 example avenue",
+        "distance": 1330,
+        "businessType": ["restaurant", "food", "vegan", "vegetarian"],
+        "promoted": false,
+        "score": 8.5
+    },
+    {
+        "name": "Whole Foods",
+        "description": "example description",
+        "address": "456 example avenue",
+        "distance": 1331,
+        "businessType": ["food", "grocery", "vegetarian"],
+        "promoted": false,
+        "score": 6
+    },
+    {
+        "name": "Confectionary",
+        "description": "example description",
+        "address": "789 example avenue",
+        "distance": 800,
+        "businessType": ["food", "pastry", "bakery", "vegan", "vegetarian"],
+        "promoted": true,
+        "score": 8
+    },
+    {
+        "name": "A-train",
+        "description": "example description",
+        "address": "123 example avenue",
+        "distance": 2554,
+        "businessType": ["apparal", "clothing"],
+        "promoted": false,
+        "score": 6.5
+    },
+    {
+        "name": "John's of 12th",
+        "description": "example description",
+        "address": "456 example avenue",
+        "distance": 3411,
+        "businessType": ["food", "vegan", "vegetarian"],
+        "promoted": false,
+        "score": 6.5
+    },
+    {
+        "name": "Juicy Lucy",
+        "description": "example description",
+        "address": "789 example avenue",
+        "distance": 2134,
+        "businessType": ["food", "juice", "smoothie"],
+        "promoted": true,
+        "score": 7
+    },
+    {
+        "name": "The Good Grocer",
+        "description": "example description",
+        "address": "123 example avenue",
+        "distance": 1989,
+        "businessType": ["food", "grocery", "vegan", "vegetarian"],
+        "promoted": true,
+        "score": 9
+    },
+    {
+        "name": "Reclaimed Reloved",
+        "description": "example description",
+        "address": "456 example avenue",
+        "distance": 6883,
+        "businessType": ["recycled", "furniture","homegoods"],
+        "promoted": false,
+        "score": 7.5
+    },
+    {
+        "name": "Concious Clothing",
+        "description": "example description",
+        "address": "789 example avenue",
+        "distance": 1289,
+        "businessType": ["clothing", "apparal", "footwear", "recycled"],
+        "promoted": false,
+        "score": 8
+    }
+]
