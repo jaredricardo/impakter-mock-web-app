@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/impakter-mock-web-app/static/css/main.00680d9e.chunk.css",
-    "main.js": "/impakter-mock-web-app/static/js/main.dbf003d1.chunk.js",
-    "main.js.map": "/impakter-mock-web-app/static/js/main.dbf003d1.chunk.js.map",
+    "main.js": "/impakter-mock-web-app/static/js/main.ffd5b1c5.chunk.js",
+    "main.js.map": "/impakter-mock-web-app/static/js/main.ffd5b1c5.chunk.js.map",
     "runtime-main.js": "/impakter-mock-web-app/static/js/runtime-main.d9dd6929.js",
     "runtime-main.js.map": "/impakter-mock-web-app/static/js/runtime-main.d9dd6929.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/impakter-mock-web-app/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.ab16c487.chunk.js",
     "static/css/main.00680d9e.chunk.css",
-    "static/js/main.dbf003d1.chunk.js"
+    "static/js/main.ffd5b1c5.chunk.js"
   ]
 }
