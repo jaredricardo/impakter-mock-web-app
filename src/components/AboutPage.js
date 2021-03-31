@@ -40,7 +40,7 @@ export default class AboutPage extends Component {
                                 individuals who desire the choice of sustainable and eco-friendly 
                                 food, products, and store options over traditional. Though this is a 
                                 niche market the trend for environmentally minded products and food 
-                                is likely to decrease. Our most important customers are those who would 
+                                is unlikely to decrease. Our most important customers are those who would 
                                 be willing to always choose sustainability over easier / cheaper / less 
                                 morally fulfilling options. Additionally, and importantly, our customers 
                                 are also the sustainable business themselves, as they will derive more 
@@ -190,7 +190,7 @@ export default class AboutPage extends Component {
                                 Key Partners: 
                             </h3>
                             <h5>
-                                Who are the partners we CANNOt do this business without? 
+                                Who are the partners we CANNOT do this business without? 
                             </h5>
                             <br />
                             <ol>
